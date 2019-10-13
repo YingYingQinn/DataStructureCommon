@@ -3,10 +3,6 @@
 #include<stack>
 #include<algorithm>
 using namespace std;
-class edge{
-	int i;
-	int j;
-};
 class graph{
 public:
 	vector<vector<int>> graphs;
